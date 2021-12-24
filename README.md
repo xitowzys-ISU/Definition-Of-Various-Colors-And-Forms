@@ -4,4 +4,6 @@
 
 ## Демонстрация работы
 
-
+| Результаты |
+| ------------------------------------------------------------ |
+| ![Результаты](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/computer-vision/Definition-of-various-colors-and-forms/-/raw/main/raw/demo_1.png?inline=false) |
